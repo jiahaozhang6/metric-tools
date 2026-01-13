@@ -1,0 +1,7 @@
+{
+  "mode": "every_k_frames",
+  "fps": 1.0,
+  "num_frames_per_video": null,
+  "every_k_frames": 5,
+  "max_frames_per_video": 81
+}

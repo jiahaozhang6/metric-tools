@@ -1,0 +1,28 @@
+{
+  "fps": 1.0,
+  "num_frames_per_video": null,
+  "every_frame": false,
+  "every_k_frames": 5,
+  "max_frames_per_video": 81,
+  "inception_resize": 299,
+  "clip_resize": 224,
+  "num_fake_videos": 1,
+  "num_fake_frames": 17,
+  "num_real_videos": 1,
+  "num_real_frames": 17,
+  "pairing": "auto",
+  "video_pairs": [
+    {
+      "fake": "epock0-erp.mp4",
+      "real": "GT.mp4"
+    }
+  ],
+  "DS": 1.3456579446792603,
+  "KID_subset_size": 16,
+  "IS_mean": 1.3032763004302979,
+  "IS_std": 0.19551554322242737,
+  "FID": 114.67799377441406,
+  "KID_mean": 0.002099711913615465,
+  "KID_std": 0.001905269455164671,
+  "CLIPScore": 17.897201538085938
+}
